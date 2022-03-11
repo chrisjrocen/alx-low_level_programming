@@ -2,6 +2,8 @@
 /**
 *main - Entry point
 *
+*Description: prints "Programming is like building a multilingual puzzle"
+*
 *Return always 0 (success)
 */
 int main(void)
