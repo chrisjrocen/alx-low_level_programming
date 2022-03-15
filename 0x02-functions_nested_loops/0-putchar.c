@@ -9,5 +9,6 @@
  */
 int _putchar(char c)
 {
+	putchar('\n');
 	return (write(1, &c, 1));
 }
