@@ -8,7 +8,7 @@
 
 1. [Hash table](https://en.wikipedia.org/wiki/Hash_table)
 
-## Learning Objectives 
+## Learning Objectives
 
 * What is a hash function
 * What makes a good hash function
@@ -26,3 +26,5 @@ So much is actually happening when you type d = {'a': 1, 'b': 2}, but everything
 Note that all dictionaries are not implemented using hash tables and there is a difference between a dictionary and a hash table. [Read more here.](https://stackoverflow.com/questions/2061222/what-is-the-true-difference-between-a-dictionary-and-a-hash-table)
 
 In PHP, hash tables are ordered. Before you continue, please take a moment to think about it: how you would implement it if you were asked to during an interview or a job. What data structures would you use? How would it work? Read [PHP Internals book - Hash table](https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html)
+
+![PHP](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/253/php.png)
